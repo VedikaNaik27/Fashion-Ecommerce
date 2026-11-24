@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f2ece4" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- Leather Chelsea Boots -->
+        <g transform="translate(170, 160)">
+            <!-- Left Boot -->
+            <path d="M 60,120 L 150,120 L 155,270 L 200,320 L 205,370 L 40,370 L 40,260 Z" fill="#1f1d1b" stroke="#000" stroke-width="2"/>
+            <!-- Elastic Side Panel -->
+            <polygon points="90,140 120,140 130,240 80,240" fill="#3a3734"/>
+            <!-- Sole -->
+            <rect x="35" y="365" width="175" height="24" rx="4" fill="#5c432d" stroke="#2b1f15" stroke-width="1.5"/>
+            <!-- Heel -->
+            <rect x="35" y="380" width="55" height="18" fill="#362619"/>
+            
+            <!-- Right Boot (offset slightly behind) -->
+            <path d="M 240,120 L 330,120 L 335,270 L 380,320 L 385,370 L 220,370 L 220,260 Z" fill="#292624" stroke="#000" stroke-width="2"/>
+            <polygon points="270,140 300,140 310,240 260,240" fill="#3a3734"/>
+            <rect x="215" y="365" width="175" height="24" rx="4" fill="#5c432d" stroke="#2b1f15" stroke-width="1.5"/>
+            <rect x="215" y="380" width="55" height="18" fill="#362619"/>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA ATELIER</text></svg>

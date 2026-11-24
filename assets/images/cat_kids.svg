@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#e6ede6" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="800" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="752" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <g transform="translate(140, 80)">
+            <!-- Playful Minimal Kids Silhouette -->
+            <path d="M 170,160 L 260,110 L 350,160 L 380,300 L 330,310 L 340,580 L 180,580 L 190,310 L 140,300 Z" fill="#758a77"/>
+            <circle cx="260" cy="90" r="32" fill="#d7e0d6"/>
+            <text x="260" y="400" font-family="Georgia, serif" font-size="34" letter-spacing="12" text-anchor="middle" fill="#ffffff">KIDS</text>
+            <text x="260" y="440" font-family="Arial, sans-serif" font-size="12" letter-spacing="4" text-anchor="middle" fill="#d7e0d6">ORGANIC &amp; COZY</text>
+        </g>
+    </g><text x="400" y="755" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA PETITE</text></svg>

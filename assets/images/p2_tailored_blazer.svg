@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f0ebe4" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- Classic Tailored Jacket -->
+        <g transform="translate(170, 150)">
+            <!-- Outer Silhouette -->
+            <path d="M 80,60 L 230,10 L 380,60 L 415,220 L 360,230 L 375,540 L 85,540 L 100,230 L 45,220 Z" fill="#242120" stroke="#161413" stroke-width="2"/>
+            <!-- Lapels -->
+            <path d="M 180,25 L 230,220 L 170,140 L 155,70 Z" fill="#322e2c" stroke="#161413" stroke-width="1.5"/>
+            <path d="M 280,25 L 230,220 L 290,140 L 305,70 Z" fill="#322e2c" stroke="#161413" stroke-width="1.5"/>
+            <!-- Inner Mock Top -->
+            <path d="M 180,25 Q 230,70 280,25 L 230,220 Z" fill="#f5ede4"/>
+            <!-- Gold Accent Button -->
+            <circle cx="230" cy="270" r="7" fill="url(#goldGrad)" stroke="#6d542b" stroke-width="1.5"/>
+            <!-- Flap Pockets -->
+            <rect x="105" y="360" width="85" height="18" rx="2" fill="#1b1918"/>
+            <rect x="270" y="360" width="85" height="18" rx="2" fill="#1b1918"/>
+            <!-- Waist Seam -->
+            <path d="M 130,280 Q 230,300 330,280" fill="none" stroke="#322e2c" stroke-width="1.5"/>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA ATELIER</text></svg>

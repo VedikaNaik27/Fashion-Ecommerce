@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f9f5f0" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- Cashmere Knit Turtleneck -->
+        <g transform="translate(180, 140)">
+            <!-- Body and Sleeves -->
+            <path d="M 90,90 L 220,60 L 350,90 L 410,240 L 350,250 L 340,500 L 100,500 L 90,250 L 30,240 Z" fill="#cbb396" stroke="#a68e73" stroke-width="2"/>
+            <!-- Turtleneck Collar -->
+            <rect x="165" y="15" width="110" height="70" rx="10" fill="#ba9e7e" stroke="#8f7659" stroke-width="2"/>
+            <!-- Knit Texture Ribs -->
+            <line x1="175" y1="18" x2="175" y2="82" stroke="#a68e73" stroke-width="2"/>
+            <line x1="195" y1="18" x2="195" y2="82" stroke="#a68e73" stroke-width="2"/>
+            <line x1="215" y1="18" x2="215" y2="82" stroke="#a68e73" stroke-width="2"/>
+            <line x1="235" y1="18" x2="235" y2="82" stroke="#a68e73" stroke-width="2"/>
+            <line x1="255" y1="18" x2="255" y2="82" stroke="#a68e73" stroke-width="2"/>
+            <!-- Cable knit vertical lines on torso -->
+            <line x1="180" y1="120" x2="180" y2="480" stroke="#ba9e7e" stroke-width="2.5" stroke-dasharray="8,4"/>
+            <line x1="260" y1="120" x2="260" y2="480" stroke="#ba9e7e" stroke-width="2.5" stroke-dasharray="8,4"/>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA ATELIER</text></svg>

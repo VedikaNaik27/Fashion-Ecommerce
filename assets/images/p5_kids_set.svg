@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f0f3ee" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- Kids Weekend Set -->
+        <g transform="translate(200, 150)">
+            <!-- Top -->
+            <path d="M 70,50 L 180,20 L 290,50 L 340,130 L 290,145 L 280,280 L 80,280 L 70,145 L 20,130 Z" fill="#889d88" stroke="#687c68" stroke-width="2"/>
+            <path d="M 145,30 Q 180,60 215,30" fill="none" stroke="#687c68" stroke-width="2"/>
+            <!-- Shorts -->
+            <path d="M 85,295 L 275,295 L 290,440 L 205,440 L 180,350 L 155,440 L 70,440 Z" fill="#d9cfbf" stroke="#b5a995" stroke-width="2"/>
+            <!-- Drawstring -->
+            <line x1="165" y1="315" x2="175" y2="340" stroke="#8c7f70" stroke-width="2"/>
+            <line x1="195" y1="315" x2="185" y2="340" stroke="#8c7f70" stroke-width="2"/>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA ATELIER</text></svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#fbf8f2" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- High-Waisted Wide Leg Trousers -->
+        <g transform="translate(190, 130)">
+            <rect x="75" y="40" width="250" height="40" rx="4" fill="#eae4db" stroke="#c5baa9" stroke-width="2"/>
+            <!-- Wide Flowy Legs -->
+            <path d="M 75,80 L 30,560 L 180,560 L 200,240 L 220,560 L 370,560 L 325,80 Z" fill="#f5efe6" stroke="#c5baa9" stroke-width="2"/>
+            <!-- Tortoiseshell buckle -->
+            <rect x="180" y="44" width="40" height="32" rx="4" fill="#694d35" stroke="#3d2a1b" stroke-width="1.5"/>
+            <circle cx="200" cy="60" r="6" fill="#f5efe6"/>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA ATELIER</text></svg>

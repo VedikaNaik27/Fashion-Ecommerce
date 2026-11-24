@@ -1,0 +1,1 @@
+Note: AI Stylist (stylist.php) and Virtual Try-On (tryon.php) are actively linked in includes/header.php and includes/footer.php.

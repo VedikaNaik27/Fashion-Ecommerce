@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f0ede8" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- Pleated Wool Trousers -->
+        <g transform="translate(200, 140)">
+            <!-- Waistband -->
+            <rect x="80" y="40" width="240" height="30" rx="3" fill="#2f3832" stroke="#1f2521" stroke-width="2"/>
+            <!-- Legs -->
+            <path d="M 80,70 L 60,540 L 180,540 L 200,230 L 220,540 L 340,540 L 320,70 Z" fill="#3b463f" stroke="#1f2521" stroke-width="2"/>
+            <!-- Pressed Creases -->
+            <line x1="120" y1="100" x2="115" y2="530" stroke="#505e55" stroke-width="2"/>
+            <line x1="280" y1="100" x2="285" y2="530" stroke="#505e55" stroke-width="2"/>
+            <!-- Belt Loops -->
+            <rect x="110" y="38" width="6" height="34" fill="#1f2521"/>
+            <rect x="197" y="38" width="6" height="34" fill="#1f2521"/>
+            <rect x="284" y="38" width="6" height="34" fill="#1f2521"/>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA ATELIER</text></svg>

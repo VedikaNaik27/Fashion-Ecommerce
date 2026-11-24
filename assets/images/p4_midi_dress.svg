@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#faf2eb" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- Flowy Midi Dress -->
+        <g transform="translate(190, 130)">
+            <!-- Bodice & Straps -->
+            <path d="M 140,40 L 150,110 L 110,210 L 270,210 L 230,110 L 240,40 L 210,40 L 205,100 L 175,100 L 170,40 Z" fill="#d38b6d" stroke="#b06c50" stroke-width="2"/>
+            <!-- Flared Skirt -->
+            <path d="M 110,210 Q 50,420 30,560 L 350,560 Q 330,420 270,210 Z" fill="#de987b" stroke="#b06c50" stroke-width="2"/>
+            <!-- Pleat / Flow lines -->
+            <path d="M 145,220 Q 120,400 110,550" fill="none" stroke="#c47d5f" stroke-width="1.8"/>
+            <path d="M 190,220 Q 190,380 190,555" fill="none" stroke="#c47d5f" stroke-width="1.8"/>
+            <path d="M 235,220 Q 260,400 270,550" fill="none" stroke="#c47d5f" stroke-width="1.8"/>
+            <!-- Waist Belt Tie -->
+            <rect x="100" y="200" width="180" height="14" rx="3" fill="#9e5c43"/>
+            <path d="M 190,214 L 175,300 L 195,300 Z" fill="#9e5c43"/>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA ATELIER</text></svg>

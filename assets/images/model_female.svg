@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f9f6f1" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- Female Studio Mannequin -->
+        <g transform="translate(200, 80)">
+            <ellipse cx="200" cy="110" rx="42" ry="56" fill="#e2d4c5" stroke="#bfaa99" stroke-width="2"/>
+            <!-- Neck -->
+            <rect x="188" y="160" width="24" height="40" fill="#e2d4c5"/>
+            <!-- Torso Silhouette -->
+            <path d="M 120,210 Q 200,195 280,210 L 265,370 Q 200,380 135,370 Z" fill="#e8dcd0" stroke="#bfaa99" stroke-width="2"/>
+            <!-- Hips & Legs -->
+            <path d="M 135,370 Q 200,380 265,370 L 285,470 L 245,740 L 210,740 L 200,490 L 190,740 L 155,740 L 115,470 Z" fill="#ded0c2" stroke="#bfaa99" stroke-width="2"/>
+            <text x="200" y="800" font-family="Arial" font-size="12" letter-spacing="3" text-anchor="middle" fill="#8c7a68">FEMALE SILHOUETTE</text>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA STUDIO</text></svg>

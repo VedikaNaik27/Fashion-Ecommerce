@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000"><defs><linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f0f3f5" stop-opacity="1" /><stop offset="100%" stop-color="#ebe3d8" stop-opacity="1" /></linearGradient><linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4af37" /><stop offset="50%" stop-color="#c5a880" /><stop offset="100%" stop-color="#9d7e50" /></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1a1815" flood-opacity="0.12" /></filter></defs><rect width="800" height="1000" fill="url(#bgGrad)"/><rect x="24" y="24" width="752" height="952" fill="none" stroke="#e0d6cb" stroke-width="1.2" stroke-dasharray="6,4" /><g filter="url(#shadow)">
+        <!-- Crisp Oxford Overshirt -->
+        <g transform="translate(180, 160)">
+            <path d="M 60,65 L 220,15 L 380,65 L 405,170 L 345,180 L 330,510 L 110,510 L 95,180 L 35,170 Z" fill="#7d91a1" stroke="#5b6e7d" stroke-width="2"/>
+            <path d="M 180,25 L 220,95 L 260,25 L 235,15 L 220,30 L 205,15 Z" fill="#677c8c" stroke="#485966" stroke-width="2"/>
+            <line x1="220" y1="95" x2="220" y2="510" stroke="#5b6e7d" stroke-width="3"/>
+            <!-- White pearl buttons -->
+            <circle cx="220" cy="140" r="5" fill="#ffffff" stroke="#9bb1c2" stroke-width="1"/>
+            <circle cx="220" cy="220" r="5" fill="#ffffff" stroke="#9bb1c2" stroke-width="1"/>
+            <circle cx="220" cy="300" r="5" fill="#ffffff" stroke="#9bb1c2" stroke-width="1"/>
+            <circle cx="220" cy="380" r="5" fill="#ffffff" stroke="#9bb1c2" stroke-width="1"/>
+            <!-- Dual utility chest pockets -->
+            <rect x="125" y="180" width="70" height="80" rx="3" fill="#6c8091" stroke="#485966" stroke-width="1.5"/>
+            <rect x="245" y="180" width="70" height="80" rx="3" fill="#6c8091" stroke="#485966" stroke-width="1.5"/>
+        </g>
+    </g><text x="400" y="955" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8c7f73">AURA ATELIER</text></svg>
